@@ -1,0 +1,152 @@
+atc_kod,atc_nazov,atc_nazov_sk
+A,ALIMENTARY TRACT AND METABOLISM,TRÁVIACI TRAKT A METABOLIZMUS
+A01,STOMATOLOGICAL PREPARATIONS,STOMATOLOGICKÉ LIEČIVÁ
+A01A,STOMATOLOGICAL PREPARATIONS,STOMATOLOGICKÉ LIEČIVÁ
+A01AA,Caries prophylactic agents,Látky na prevenciu zubného kazu
+A01AA01,Sodium fluoride,Fluorid sodný
+A01AA02,Sodium monofluorophosphate,Monofluórfosforečnan sodný
+A01AA03,Olaflur,Olaflur
+A01AA04,Stannous fluoride,Fluorid cínatý
+A01AA30,Combinations,Kombinácie
+A01AA51,Sodium fluoride, combinations,Fluorid sodný, kombinácie
+A01AB,Antiinfectives and antiseptics for local oral treatment,Antiinfektíva a antiseptiká na lokálnu ústnu liečbu
+A01AB02,Hydrogen peroxide,Peroxid vodíka
+A01AB03,Chlorhexidine,Chlórhexidín
+A01AB04,Amphotericin B,Amfotericín B
+A01AB05,Polynoxylin,Polynoxylín
+A01AB06,Domiphen,Domifen
+A01AB07,Oxyquinoline,Oxychinolín
+A01AB08,Neomycin,Neomycín
+A01AB09,Miconazole,Mikonazol
+A01AB10,Natamycin,Natamycín
+A01AB11,Various,Rôzne
+A01AB12,Hexetidine,Hexetidín
+A01AB13,Tetracycline,Tetracyklín
+A01AB14,Benzoxonium chloride,Benzoxóniumchlorid
+A01AB15,Tibezonium iodide,Tibezóniumjodid
+A01AB16,Mepartricin,Mepartricín
+A01AB17,Metronidazole,Metronidazol
+A01AB18,Clotrimazole,Klotrimazol
+A01AB19,Sodium perborate,Peroxoboritan sodný
+A01AB21,Chlortetracycline,Chlórtetracyklín
+A01AB22,Doxycycline,Doxycyklín
+A01AB23,Minocycline,Minocyklín
+A01AC,Corticosteroids for local oral treatment,Kortikosteroidy na lokálnu liečbu
+A01AC01,Triamcinolone,Triamcinolón
+A01AC02,Dexamethasone,Dexametazón
+A01AC03,Hydrocortisone,Hydrokortizón
+A01AC54,Prednisolone, combinations,Prednizolón, kombinácie
+A01AD,Other agents for local oral treatment,Iné liečivá na lokálnu liečbu
+A01AD01,Epinephrine,Epinefrín (Adrenalín)
+A01AD02,Benzydamine,Benzydamín
+A01AD05,Acetylsalicylic acid,Kyselina acetylsalicylová
+A01AD06,Adrenalone,Adrenalón
+A01AD07,Amlexanox,Amlexanox
+A01AD08,Becaplermin,Bekaplermín
+A01AD11,Various,Rôzne
+A02,DRUGS FOR ACID RELATED DISORDERS,LIEČIVÁ PRI PORUCHÁCH ACIDITY
+A02A,ANTACIDS,ANTACIDÁ
+A02AA,Magnesium compounds,Zlúčeniny horčíka
+A02AA01,Magnesium carbonate,Uhličitan horečnatý
+A02AA02,Magnesium oxide,Oxid horečnatý
+A02AA03,Magnesium peroxide,Peroxid horčíka
+A02AA04,Magnesium hydroxide,Hydroxid horečnatý
+A02AA05,Magnesium silicate,Trikremičitan horečnatý
+A02AA10,Magnesium compouds, combinations,Zlúčeniny horčíka, kombinácie
+A02AB,Aluminium compounds,Zlúčeniny hliníka
+A02AB01,Aluminium hydroxide,Hydroxid hlinitý
+A02AB02,Algeldrate,Algeldrát
+A02AB03,Aluminium phosphate,Fosforečnan hlinitý
+A02AB04,Dihydroxialumini sodium carbonate,Uhličitan dihydroxyhlinito-sodný
+A02AB05,Aluminium acetoacetate,Alumíniumacetoacetát
+A02AB06,Aloglutamol,Aloglutamol
+A02AB07,Aluminium glycinate,Alumíniumglycinát
+A02AB10,Aluminium compounds, combinations,Zlúčeniny hliníka, kombinácie
+A02AC,Calcium compounds,Zlúčeniny vápnika
+A02AC01,Calcium carbonate,Uhličitan vápenatý
+A02AC02,Calcium silicate,Trikremičitan vápenatý
+A02AC10,Calcium compouds, combinations,Zlúčeniny vápnika, kombinácie
+A02AD,Combinations and complexes of aluminium, calcium and magnesium,Kombinácie a komplexy hliníka, vápnika a horčíka
+A02AD01,Ordinary salt combinations,Kombinácia bežných solí
+A02AD02,Magaldrate,Magaldrát
+A02AD03,Almagate,Almagát
+A02AD04,Hydrotalcite,Hydrotalcit
+A02AD05,Almasilate,Almasilát
+A02AF,Antacids with antiflatulents,Antacidá s antiflatulenciami
+A02AF01,Magaldrate and antiflatulents,Magaldrát a antiflatulenciá
+A02AF02,Ordinary salt combinations and antiflatulents,Kombinácie bežných solí s antiflatulenciami
+A02AG,Antacids with antispasmodics,Antacidá so spazmolytikami
+A02AH,Antacids with sodium bicarbonate,Antacidá s hydrogenuhličitanom sodným
+A02AX,Antacids, other combinations,Antacidá, iné kombinácie
+A02B,DRUGS FOR PEPTIC ULCER AND GASTRO-OESOPHAGEAL REFLUX,LIEČIVÁ NA ŽALÚDOČNÝ VRED A REFLUXNÚ CHOROBU PAŽERÁKA
+A02BA,H2-receptor antagonists,Antagonisty H2-receptorov
+A02BA01,Cimetidine,Cimetidín
+A02BA02,Ranitidine,Ranitidín
+A02BA03,Famotidine,Famotidín
+A02BA04,Nizatidine,Nizatidín
+A02BA05,Niperotidine,Niperotidín
+A02BA06,Roxatidine,Roxatidín
+A02BA07,Ranitidine bismuth citrate,Ranitidín-bizmutumcitrát
+A02BA08,Lafutidine,Lafutidín
+A02BA51,Cimetidine, combinations,Cimetidín, kombinácie
+A02BA53,Famotidine, combinations,Famotidín, kombinácie
+A02BB,Prostaglandins,Prostaglandíny
+A02BB01,Misoprostol,Mizoprostol
+A02BB02,Enprostil,Enprostil
+A02BC,Proton pump inhibitors,Inhibítory protónovej pumpy
+A02BC01,Omeprazole,Omeprazol
+A02BC02,Pantoprazole,Pantoprazol
+A02BC03,Lansoprazole,Lanzoprazol
+A02BC04,Rabeprazole,Rabeprazol
+A02BC05,Esomeprazole,Ezomeprazol
+A02BC06,Dexlansoprazole,Dexlanzoprazol
+A02BC08,Vonoprazan,Vonoprazan
+A02BC09,Tegoprazan,Tegoprazán
+A02BD,Combinations for eradication of Helicobacter pylor,Kombinácie na eradikáciu Helicobacter pylori
+A02BD01,Omeprazole, amoxicillin and metronidazole,Omeprazol, amoxicilín a metronidazol
+A02BD02,Lansoprazole, tetracycline and metronidazole,Lanzoprazol, tetracyklín a metronidazol
+A02BD03,Lansoprazole, amoxicillin and metronidazole,Lanzoprazol, amoxicilín a metronidazol
+A02BD04,Pantoprazole, amoxicillin and clarithromycin,Pantoprazol, amoxicilín a klaritromycín
+A02BD05,Omeprazole, amoxicillin and clarithromycin,Omeprazol, amoxicilín a klaritromycín
+A02BD06,Esomeprazole, amoxicillin and clarithromycin,Ezomeprazol, amoxicilín a klaritromycín
+A02BD07,Lansoprazol, amoxicillin and clarithromycin,Lanzoprazol, amoxicilín a klaritromycín
+A02BD08,Bismuth subcitrate, tetracycline and metronidazole,Subcitrónan bizmutitý, tetracyklín a metronidazol
+A02BD12,Rabeprazole, amoxicillin and clarithromycin,Rabeprazol, amoxicilín a klaritromycín
+A02BD13,Rabeprazole, amoxicillin and metronidazole,Rabeprazol, amoxicilín a metronidazol
+A02BD14,Vonoprazan, amoxicillin and clarithromycin,Vonoprazan, amoxicilín a klaritromycín
+A02BD15,Vonoprazan, amoxicillin and metronidazole,Vonoprazan, amoxicilín a metronidazol
+A02BD16,Omeprazole, amoxicillin and rifabutin,Omeprazol, amoxicilín a rifabutín
+A02BX,Other drugs for peptic ulcer and gastro-oesophageal reflux,Iné liečivá na žalúdočný vred a refluxnú chorobu pažeráka
+A02BX01,Carbenoxolone,Karbenoxolón
+A02BX02,Sucralfate,Sukralfát
+A02BX03,Pirenzepine,Pirenzepín
+A02BX04,Methiosulfonium chloride,Metiosulfóniumchlorid
+A02BX05,Bismuth subcitrate,Bizmutumcitrát
+A02BX06,Proglumide,Proglumid
+A02BX07,Gefarnate,Gefarnát
+A02BX08,Sulglicotide,Sulglikotid
+A02BX09,Acetoxolone,Acetoxolón
+A02BX10,Zolimidine,Zolimidín
+A02BX11,Troxipide,Troxipid
+A02BX12,Bismuth subnitrate,Zásaditý dusičnan bizmutitý
+A02BX13,Alginic acid,Kyselina algínová
+A02BX14,Rebamipide,Rebamipid
+A02BX51,Carbenoxolone, combinations excl. psycholeptics,Karbenoxolón, kombinácie s výnimkou psycholeptík
+A02BX71,Carbenoxolone, combinations with psycholeptics,Karbenoxolón, kombinácie so psycholeptikami
+A02BX77,Gefarnate, combinations with psycholeptics,Gefarnát, kombinácie s psycholeptikami
+A02X,OTHER DRUGS FOR ACID RELATED DISORDERS,INÉ ANTACIDÁ, ANTIULCERÓZA A ANTILFLATULENCIÁ
+A03,DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS,LIEČIVÁ NA FUNKČNÉ GASTROINTESTINÁLNE PORUCHY
+A03A,DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS(DRUGS FOR FUNCTIONAL BOWEL DISORDERS-delete WHO),LIEČIVÁ NA GASTROINTESTINÁLNE PORUCHY
+A03AA,Synthetic anticholinergics, esters with tertiary amino group,Syntetické anticholínergiká, estery s terciárnou aminoskupinou
+A03AA01,Oxyphencyclimine,Oxyfencyklimín
+A03AA03,Camylofin,Kamylofín
+A03AA04,Mebeverine,Mebeverín
+A03AA05,Trimebutine,Trimebutín
+A03AA06,Rociverine,Rociverín
+A03AA07,Dicycloverine,Dicykloverín
+A03AA08,Dihexyverine,Dihexyverín
+A03AA09,Difemerine,Difemerín
+A03AA30,Piperidolate,Piperidolát
+A03AB,Synthetic anticholinergics, quaternary ammonium compounds,Syntetické anticholínergiká, kvartérne amóniové zlúčeniny
+A03AB01,Benzilone,Benzilón
+A03AB02,Glycopyrronium
